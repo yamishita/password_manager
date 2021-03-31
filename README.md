@@ -15,6 +15,6 @@
 
 ## 貢献
 パスワード生成（以下２つ）以外を担当。
-・genpw/genPw.c
-・genpw/consDict.c
+- genpw/genPw.c
+- genpw/consDict.c
 
