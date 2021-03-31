@@ -1,0 +1,5 @@
+
+char* test(){
+    return "HELLO!";
+}
+
